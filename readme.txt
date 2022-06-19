@@ -1,0 +1,1 @@
+Este repo sirve para hacer tablas de multiplicar con yargs y que muestre por consola resultados, así como la configuración previamente de argumentos para la consola 
